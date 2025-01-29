@@ -1,0 +1,1 @@
+I encountered an issue where Tailwind CSS classes weren't being applied correctly to my elements, even though the classes were defined in my `tailwind.config.js` file and the CSS was being included in my HTML.  The issue only manifested in production, not during local development.
